@@ -1,11 +1,10 @@
-# Hola, soy luis
+# Luis Alfonso Martin Velazquez
+
+Hola Soy Luis, pero me gusta que me digan Dante, tengo una obseción con el código y los mapaches, espero algún dia las personas escuchen mis mensajes.
+
+- [cdmx2028@amerike.edu.mx](cdmx2028@amerike.edu.mx)
+- Mi github: [Wicho115](https://github.com/Wicho115)
+
+![Luis Alfonso](./img/foto-Dante.png)
 
 ---
-
-Este es un proyecto hecho con [_DocPress_](https://github.com/docpress)
-
-_DocPress_ es una herramienta que sirve para hacer micro-sitios de documentación en formarto markdown
-
-Nosotors escribimos la documentacion en formato markdown y _DocPress_ la comvierte en codigo _HTML_.
-
-Para instalar _DocPress_ necesitamos tener instalado [_NodeJS_](https://nodejs.org/es/)
