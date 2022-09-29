@@ -9,5 +9,3 @@ _DocPress_ es una herramienta que sirve para hacer micro-sitios de documentació
 Nosotors escribimos la documentacion en formato markdown y _DocPress_ la comvierte en codigo _HTML_.
 
 Para instalar _DocPress_ necesitamos tener instalado [_NodeJS_](https://nodejs.org/es/)
-
-[Mira esto](./docs/Series/The-Boys.md)
